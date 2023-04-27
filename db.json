@@ -1,0 +1,75 @@
+{"roles":[
+		{
+            "id":1,
+            "roll":"Director",
+			 "user":"ricardo.solano"
+        },
+				{
+            "id":2,
+            "roll":"Coordinador RA",
+            "user":"shelvin.batista"
+        },
+		{
+            "id":3,
+            "roll":"Coordinador CA",
+            "user":"maria.tautiva"
+        },
+				{
+            "id":4,
+            "roll":"Coordinador Servicio al cliente",
+            "user":"edisson.alonso"
+        },
+		{
+            "id":5,
+            "roll":"Coordinador logistico",
+            "user":"andrey.rodriguez"
+        },
+			{
+            "id":6,
+            "roll":"Operador CA",
+            "user":"victor.alzate"
+        },
+		{
+            "id":7,
+            "roll":"Operador servicio al cliente",
+            "user":"edisson.alonso"
+        },
+        {
+            "id":9,
+            "roll":"Coordinador RA",
+            "user":"shelvin.batista"
+        },
+        {
+            "id":10,
+            "roll":"Operador Ra",
+            "user":"monica.duenes"
+        }
+   ],
+   
+      "usuarios":[
+		{
+            "id":1,
+            "user":"shelvin.batista",
+			"password":"P3r1f3r142022*"
+        },
+		
+				{
+            "id":2,
+            "user":"monica.duenes",
+			"password":"P3r1f3r142022*"
+        }
+   ],
+   
+   "opt":[
+    {
+        "id":1,
+        "opt":123456,
+        "status":true
+    },  
+    {
+        "id": 2,
+        "opt": 246810,
+        "status": false
+      }
+	     ]
+}
